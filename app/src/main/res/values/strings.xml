@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ArrayAdapterApp</string>
+    <string name="list_of_fruits">List of Fruits!</string>
+</resources>
